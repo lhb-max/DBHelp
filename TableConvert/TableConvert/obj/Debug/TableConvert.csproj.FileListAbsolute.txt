@@ -1,0 +1,14 @@
+D:\document\TableConvert\TableConvert\bin\Debug\TableConvert.dll
+D:\document\TableConvert\TableConvert\bin\Debug\TableConvert.pdb
+D:\document\TableConvert\TableConvert\obj\Debug\TableConvert.dll
+D:\document\TableConvert\TableConvert\obj\Debug\TableConvert.pdb
+D:\Work\TableConvert\TableConvert\TableConvert\bin\Debug\TableConvert.dll
+D:\Work\TableConvert\TableConvert\TableConvert\bin\Debug\TableConvert.pdb
+D:\Work\TableConvert\TableConvert\TableConvert\obj\Debug\TableConvert.dll
+D:\Work\TableConvert\TableConvert\TableConvert\obj\Debug\TableConvert.pdb
+D:\Work\TableConvert\TableConvert\TableConvert\obj\Debug\TableConvert.csprojAssemblyReference.cache
+D:\C#作业\工具类\TableConvert\TableConvert\TableConvert\obj\Debug\TableConvert.csprojAssemblyReference.cache
+D:\C#作业\工具类\TableConvert\TableConvert\TableConvert\obj\Debug\TableConvert.dll
+D:\C#作业\工具类\TableConvert\TableConvert\TableConvert\obj\Debug\TableConvert.pdb
+D:\C#作业\工具类\TableConvert\TableConvert\TableConvert\bin\Debug\TableConvert.dll
+D:\C#作业\工具类\TableConvert\TableConvert\TableConvert\bin\Debug\TableConvert.pdb

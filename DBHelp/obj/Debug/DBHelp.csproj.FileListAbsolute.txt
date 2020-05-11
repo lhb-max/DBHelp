@@ -1,0 +1,14 @@
+D:\C#作业\ADO.NET基础3\DBHelp\bin\Debug\DBHelp.dll
+D:\C#作业\ADO.NET基础3\DBHelp\bin\Debug\DBHelp.pdb
+D:\C#作业\ADO.NET基础3\DBHelp\obj\Debug\DBHelp.csprojAssemblyReference.cache
+D:\C#作业\ADO.NET基础3\DBHelp\obj\Debug\DBHelp.dll
+D:\C#作业\ADO.NET基础3\DBHelp\obj\Debug\DBHelp.pdb
+D:\C#作业\DBHelp\DBHelp\bin\Debug\DBHelp.dll
+D:\C#作业\DBHelp\DBHelp\bin\Debug\DBHelp.pdb
+D:\C#作业\DBHelp\DBHelp\obj\Debug\DBHelp.dll
+D:\C#作业\DBHelp\DBHelp\obj\Debug\DBHelp.pdb
+D:\C#作业\DBHelp\DBHelp\obj\Debug\DBHelp.csprojAssemblyReference.cache
+D:\C#作业\工具类\DBHelp\DBHelp\bin\Debug\DBHelp.dll
+D:\C#作业\工具类\DBHelp\DBHelp\bin\Debug\DBHelp.pdb
+D:\C#作业\工具类\DBHelp\DBHelp\obj\Debug\DBHelp.dll
+D:\C#作业\工具类\DBHelp\DBHelp\obj\Debug\DBHelp.pdb
